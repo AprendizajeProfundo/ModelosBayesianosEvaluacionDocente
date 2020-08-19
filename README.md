@@ -17,9 +17,9 @@ You can find the questionary
 #  Papers
 Papers submitted to scientific journals
 
-# R-codes
+# [R-codes](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/R-Codes)
 Scripts of R for pre-preprocessing data, run the estimation procedures and statistical analysis
 
-# Stan Codes [Goto to scripts](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/Stan-codes)
+# [Stan Codes](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/Stan-codes)
 Scripts os Stan which implement the corresponding models
  
