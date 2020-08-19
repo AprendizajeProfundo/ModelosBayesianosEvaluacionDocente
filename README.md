@@ -20,5 +20,6 @@ Papers submitted to scientific journals
 # R-codes
 Scripts of R for pre-preprocessing data, run the estimation procedures and statistical analysis
 
-# Stan Codes
+# Stan Codes [Goto to scripts](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/Stan-codes)
 Scripts os Stan which implement the corresponding models
+ 
