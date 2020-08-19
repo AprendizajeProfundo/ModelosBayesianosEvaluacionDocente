@@ -14,7 +14,7 @@ Data from a survey applied to evaluate the professors in the Science Faculty at 
 # Docs 
 You can find the questionary
 
-#  Papers
+#  [Papers](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/papers)
 Papers submitted to scientific journals
 
 # [R-codes](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/R-Codes)
