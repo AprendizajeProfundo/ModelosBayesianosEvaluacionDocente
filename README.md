@@ -11,7 +11,7 @@ The repository contains the following folders:
 # [Data](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/Data)
 Data from a survey applied to evaluate the professors in the Science Faculty at Universidad Nacional de Colombia
 
-# Docs 
+# [Docs ](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/Docs)
 You can find the questionary
 
 #  [Papers](https://github.com/AprendizajeProfundo/ModelosBayesianosEvaluacionDocente/tree/master/papers)
