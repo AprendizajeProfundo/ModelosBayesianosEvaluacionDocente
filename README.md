@@ -1,4 +1,4 @@
-# Bayesian Multifaceted Models for professor Evaluation.
+# Bayesian Multifaceted Models for Professor Evaluation.
 
 The repository contains the software codes of the project: 
 
