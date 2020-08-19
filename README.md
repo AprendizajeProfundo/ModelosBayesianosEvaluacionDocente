@@ -1,6 +1,6 @@
 # Bayesian Multifaceted Models for professor Evaluation.
 
-The repository contains the codes of the project: 
+The repository contains the software codes of the project: 
 
 # Development and implementation of a multifaceted item response model for analysis of Teacher evaluation at the National University of Colombia-Bogotá
 Código Hermes:	36008
@@ -18,7 +18,7 @@ You can find the questionary
 Papers submitted to scientific journals
 
 # R-codes
-Scripts of R for pre-preprosessing data, run the estimation procedures and statistical analysis
+Scripts of R for pre-preprocessing data, run the estimation procedures and statistical analysis
 
 # Stan Codes
 Scripts os Stan which implement the corresponding models
